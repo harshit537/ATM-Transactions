@@ -69,6 +69,7 @@ Revenue Streams: Understanding the revenue contributions from different regions 
 Transaction Trends: Monitoring the trends in financial and non-financial transactions can help in predicting future transaction volumes and preparing accordingly.
 Performance Metrics: Key performance metrics such as average uptime and gross profit percentage provide a quick snapshot of the overall efficiency and profitability of ATM operations.
 
+Dashboard : https://app.powerbi.com/view?r=eyJrIjoiYjdiMDFhYTctYmFjNS00OTBiLWJiZGUtMTljZTVmOTljZGQ4IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
 
 Importance of These Insights
 Operational Efficiency: Identifying cost drivers and optimizing maintenance costs can significantly enhance operational efficiency.
