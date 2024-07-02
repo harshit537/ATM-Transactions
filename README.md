@@ -1,5 +1,7 @@
 # ATM-Transactions
 This Power BI dashboard provides a comprehensive overview of ATM transactions, costs, and revenues across different regions. The dashboard is designed to help stakeholders understand the performance, costs, and trends in ATM operations.
+
+
 Cost Analysis (ATM Cost and Maintenance)
 This section provides a breakdown of ATM maintenance costs. The costs are categorized and visualized using pie charts for the selected month (August). The categories include:
 
@@ -9,12 +11,16 @@ Site Maintenance: Maintenance of the ATM site
 Spare Replacement: Replacement of ATM spare parts
 UPS AMC: Uninterruptible Power Supply Annual Maintenance Contract
 VSAT AMC: Very Small Aperture Terminal Annual Maintenance Contract
+
+
 Key Metrics
 Total Cost: 296M
 Average Total Transactions (TXN): 178.89M
 Gross Profit Percentage: 59.6%
 Average Uptime: 91.9%
 Average EBILL: 2.21K
+
+
 Revenue Analysis (ATM, MHA, and Monthly Revenue)
 This section highlights the revenue generated from ATMs, MHA (Ministry of Home Affairs), and overall monthly revenue across various regions. The regions analyzed include:
 
@@ -48,17 +54,22 @@ How the Dashboard Was Created
 Data Collection
 Data was collected from various sources including ATM transaction logs, maintenance records, and financial reports. The data was cleaned and prepared for analysis using data preprocessing techniques.
 
+
 Visualization
 Power BI: The primary tool used for creating this dashboard is Power BI.
 Charts Used:
 Pie Charts: For visualizing the cost breakdown in the Cost Analysis section.
 Bar Charts: For comparing revenue across regions and transaction types by month.
 Line Chart: For showing the trend in transactions over time.
+
+
 Insights Derived
 Cost Efficiency: By breaking down the costs into specific categories, stakeholders can identify areas where cost-saving measures can be implemented.
 Revenue Streams: Understanding the revenue contributions from different regions helps in strategizing regional focus and improving profitability.
 Transaction Trends: Monitoring the trends in financial and non-financial transactions can help in predicting future transaction volumes and preparing accordingly.
 Performance Metrics: Key performance metrics such as average uptime and gross profit percentage provide a quick snapshot of the overall efficiency and profitability of ATM operations.
+
+
 Importance of These Insights
 Operational Efficiency: Identifying cost drivers and optimizing maintenance costs can significantly enhance operational efficiency.
 Strategic Planning: Revenue insights assist in making informed decisions about resource allocation and marketing strategies.
